@@ -1,6 +1,6 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner (2)](https://github.com/zenmcmillan/zenmcmillan/assets/121205752/312af8b7-4643-4c60-a6e2-c86e2aebb79a)
 
-# Hi there!
+# Hi there ☀
 
 ## About Me
 
