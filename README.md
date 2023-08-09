@@ -7,5 +7,5 @@
 I'm Zen McMillan a software development student at the Turing School for Software and Design.
 
 ## Where you can find me:
-[LinkedIn](https://www.linkedin.com/in/zen-mcmillan-%E2%98%80%EF%B8%8F-8aa114164/)
+[!LinkedIn](https://www.linkedin.com/in/zen-mcmillan-%E2%98%80%EF%B8%8F-8aa114164/)
 
